@@ -1,0 +1,62 @@
+.header, .layer1 {
+    background-color: #1F2937;
+    
+}
+
+.layer1 h1 {
+    font-size:48px;
+    color: #F9FAF8;
+}
+
+.layer1 text {
+    font-size: 18px;
+    color: #E5E7EB
+
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+
+}
+
+button {
+    background-color: #3882F6;
+    color: white;
+    font-size: 18px;
+}
+
+.layer2 h2 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.layer3 {
+    background-color: #E5E7EB;
+    
+}
+.layer3 .quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: light;
+    color: #1F2937;
+}
+
+.layer3 .author {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.layer4 {
+    background-color: #3882F6;
+}
+
+.layer4 h3 {
+    font-size: 24px;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: white;
+}
